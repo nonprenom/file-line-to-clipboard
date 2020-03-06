@@ -18,3 +18,7 @@ Right-click anywhere in the code and choose <b>File@Line to clipboard</b>
 ### 1.0.0
 
 Initial release
+
+## Build
+Compile : npm run compile<br>
+Create the VSIX : vsce package
