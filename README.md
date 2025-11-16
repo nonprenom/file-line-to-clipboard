@@ -1,4 +1,4 @@
-# File@Line to clipboard README
+# File@Line to clipboard (VSCODE extension)
 
 ## Features
 
